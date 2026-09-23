@@ -57,7 +57,7 @@ Overall methodology:
 
 **SQL:** CTEs, Views, Joins, CASE, Aggregate Functions, Window Functions
 
-**Power BI:** DAX, Power Query, Conditional Columns, Measures, Data Visualization
+**Power BI:** DAX, Power Query, Measures, Data Visualization
 
 ## Dashboard
 
