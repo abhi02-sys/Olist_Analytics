@@ -1,5 +1,6 @@
-/* PURPOSE: To insert data into silver layer after data quality check, transformations and
-standardization done */
+/* PURPOSE: To load validated Bronze-layer data into the Silver layer after
+data quality assessment, validation, and required transformations. */
+
 
 use olist_analytics;
 
