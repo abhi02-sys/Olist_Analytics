@@ -71,7 +71,8 @@ Provides an overview of customers, delivered orders, repeat customer rate, reven
 
 ### Customer Retention
 
-<img width="936" height="738" alt="image" src="https://github.com/user-attachments/assets/102deee0-bb9e-43fe-8fe1-da417d4ab512" />
+<img width="945" height="742" alt="image" src="https://github.com/user-attachments/assets/6e0c5037-99ff-4c24-b409-b0801565ce2c" />
+
 
 Analyzes customer cohorts, retention patterns, and repeat purchasing behavior.
 
